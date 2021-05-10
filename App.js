@@ -1,7 +1,7 @@
 import userEvent from '@testing-library/user-event';
 import React, { useState, useEffect} from 'react';
 import styled from 'styled-components';
- import SearchBox from './components/SearchBox';
+ import SearchBox from 'SearchBox';
 
 
 
